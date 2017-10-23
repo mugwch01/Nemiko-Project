@@ -1,0 +1,6 @@
+<Switch_Name> with ip address: <10.x.x.x>
+9     Up     100FDx     
+11     Up     100FDx     
+12     Up     100FDx     
+<Switch_Name> with ip address: <10.x.x.x>
+4     Up     100FDx     

@@ -1,0 +1,10 @@
+
+ LLDP Remote Devices Information
+
+  LocalPort | ChassisId                 PortId PortDescr SysName               
+  --------- + ------------------------- ------ --------- ----------------------
+  1         | <serial_number>                eth0                                   
+  1         | 98 4b e1 e8 61 a3         98 ... Port 1    <Switch_Name>
+  9         | 00 11 0a 45 ae 00         67     C15       <Switch_Name>
+  10        | 00 11 0a 45 ae 00         68     C16       <Switch_Name>
+ 

@@ -1,0 +1,23 @@
+
+ Status and Counters - General System Information
+
+  System Name        : <Switch_Name>                              
+  System Contact     : 
+  System Location    : <Switch_Location>
+
+  MAC Age Time (sec) : 300    
+
+  Time Zone          : -360 
+  Daylight Time Rule : Continental-US-and-Canada 
+
+
+  Software revision  : J.14.54          Base MAC Addr      : <mac_addr>
+  ROM Version        : J.14.05          Serial Number      : <serial_number>  
+
+  Up Time            : 242 days         Memory   - Total   : 33,554,432  
+  CPU Util (%)       : 14                          Free    : 20,142,064  
+
+  IP Mgmt  - Pkts Rx : 138,284,150      Packet   - Total   : 3022        
+             Pkts Tx : 45,331,513       Buffers    Free    : 2904        
+                                                   Lowest  : 2670        
+                                                   Missed  : 0           

@@ -1,0 +1,18 @@
+
+ Status and Counters - Custom Port Status
+
+                     
+  Port Status Speed  
+  ---- ------ -------
+  1    Up     1000FDx
+ 
+ Status and Counters - Custom Port Status
+
+                     
+  Port Status Speed  
+  ---- ------ -------
+  2    Up     1000FDx
+ 
+ Status and Counters - Custom Port Status
+
+
